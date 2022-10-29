@@ -1,0 +1,16 @@
+{
+  "name": "hello-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "veena",
+  "license": "ISC",
+  "description": "my first node application",
+  "dependencies": {
+    "eslint": "^8.24.0",
+    "minimist": "^1.2.6"
+  }
+}
